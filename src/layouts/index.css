@@ -64,7 +64,7 @@ animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
   color: black;
 }
 
-@media(max-width:540px) {
+@media(max-width:640px) {
   .HeroGroup{
     padding: 100px 20px;
   }
