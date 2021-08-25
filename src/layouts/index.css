@@ -61,7 +61,7 @@ animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
 
 .Hero a:hover{
   background: white;
-  color: purple;
+  color: black;
 }
 
 @media(max-width:640px) {
